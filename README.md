@@ -45,7 +45,7 @@ Basic functions of HTML, CSS and responsive.
 
 ## Author
 
-- José Antonio González[Github](https://github.com/JoseGonAbellan)
+- José Antonio González [Github](https://github.com/JoseGonAbellan)
 
 ## Acknowledgments
 
